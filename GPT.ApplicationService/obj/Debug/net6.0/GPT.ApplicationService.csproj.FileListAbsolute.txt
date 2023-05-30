@@ -1,0 +1,17 @@
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\bin\Debug\net6.0\GPT.ApplicationService.deps.json
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\bin\Debug\net6.0\GPT.ApplicationService.dll
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\bin\Debug\net6.0\GPT.ApplicationService.pdb
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.AssemblyInfo.cs
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.dll
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\refint\GPT.ApplicationService.dll
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.pdb
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\ref\GPT.ApplicationService.dll
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\bin\Debug\net6.0\GPT.ApplicationService.runtimeconfig.json
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\bin\Debug\net6.0\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\bin\Debug\net6.0\Core.Model.pdb
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.csproj.CopyComplete
+C:\Users\MarcoAerlic\source\repos\GPT\GPT.ApplicationService\obj\Debug\net6.0\GPT.ApplicationService.genruntimeconfig.cache
