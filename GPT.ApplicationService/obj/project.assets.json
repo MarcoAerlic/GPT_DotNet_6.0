@@ -2832,11 +2832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\GPT.ApplicationService\\GPT.ApplicationService.csproj",
+      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\GPT.ApplicationService\\GPT.ApplicationService.csproj",
       "projectName": "GPT.ApplicationService",
-      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\GPT.ApplicationService\\GPT.ApplicationService.csproj",
+      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\GPT.ApplicationService\\GPT.ApplicationService.csproj",
       "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\GPT.ApplicationService\\obj\\",
+      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\GPT.ApplicationService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2858,8 +2858,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj": {
-              "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj"
+            "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj": {
+              "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj"
             }
           }
         }

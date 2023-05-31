@@ -2708,11 +2708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj",
+      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj",
       "projectName": "Core.Model",
-      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj",
+      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj",
       "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\Core.Model\\obj\\",
+      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_WIth_RefreshToken\\GPT_DotNet_6.0\\Core.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
