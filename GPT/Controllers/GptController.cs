@@ -8,7 +8,7 @@ using System.Data;
 
 namespace GPT.Controllers
 {
-    [Authorize(Roles = UserRoles.Admin)]
+    //[Authorize(Roles = UserRoles.Admin)]
     [Route("api/[controller]")]
     [ApiController]
     public class GptController : ControllerBase

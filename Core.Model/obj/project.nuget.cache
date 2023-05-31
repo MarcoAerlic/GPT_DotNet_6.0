@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oHDFKUdVNqBO5R+1YWOlpLBDK/sxzkUFkT+K95mUkSZPt0dPN55WI5Ct4zW5PZ/7vuqaYPo7mRbmYHEnyr6coQ==",
+  "dgSpecHash": "2AGZmNVG29ENY7FLJEhuWvIZ8mfuDS6NOVacjuC9KjNVOIuo3JNXBLmr5BIuK5ymPHIdCOiAZn6WrgcUy1WCNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT\\Core.Model\\Core.Model.csproj",
+  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_31_05_2023\\GPT_DotNet_6.0\\Core.Model\\Core.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",

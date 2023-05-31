@@ -12,3 +12,17 @@ C:\Users\MarcoAerlic\source\repos\GPT\Core.Model\obj\Debug\net6.0\refint\Core.Mo
 C:\Users\MarcoAerlic\source\repos\GPT\Core.Model\obj\Debug\net6.0\Core.Model.pdb
 C:\Users\MarcoAerlic\source\repos\GPT\Core.Model\obj\Debug\net6.0\Core.Model.genruntimeconfig.cache
 C:\Users\MarcoAerlic\source\repos\GPT\Core.Model\obj\Debug\net6.0\ref\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\bin\Debug\net6.0\Core.Model.deps.json
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\bin\Debug\net6.0\Core.Model.runtimeconfig.json
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\bin\Debug\net6.0\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\bin\Debug\net6.0\Core.Model.pdb
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.csproj.AssemblyReference.cache
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.AssemblyInfoInputs.cache
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.AssemblyInfo.cs
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\refint\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.pdb
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\Core.Model.genruntimeconfig.cache
+C:\Users\MarcoAerlic\source\repos\GPT_31_05_2023\GPT_DotNet_6.0\Core.Model\obj\Debug\net6.0\ref\Core.Model.dll
